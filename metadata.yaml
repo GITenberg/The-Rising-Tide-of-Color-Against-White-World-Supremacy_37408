@@ -1,0 +1,37 @@
+_repo: The-Rising-Tide-of-Color-Against-White-World-Supremacy_37408
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Grant, Madison
+    birthdate: 1865
+    deathdate: 1937
+    gutenberg_agent_id: '44795'
+    url: http://www.gutenberg.org/2009/agents/44795
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stoddard, Lothrop
+    alias: Stoddard, Theodore Lothrop
+    birthdate: 1883
+    deathdate: 1950
+    gutenberg_agent_id: '26252'
+    url: http://www.gutenberg.org/2009/agents/26252
+description: A reprint of a 1920 classic surveying the world racial situation after
+  World War I and warning of the coming non-white population explosion--P. [4] of
+  cover.
+gutenberg_issued: '2011-09-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37408'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Caucasian race'
+- !lcsh 'Race relations'
+- !lcc 'HT'
+title: The Rising Tide of Color Against White World-Supremacy
+url: http://www.gutenberg.org/ebooks/37408
